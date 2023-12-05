@@ -1,0 +1,4 @@
+Hola que tal
+esto es un texto para comprobar
+la veracidad del comando >>
+sales control d
